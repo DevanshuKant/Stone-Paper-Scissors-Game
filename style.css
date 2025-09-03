@@ -1,3 +1,11 @@
+h1{
+    text-align: center;
+    color: white;
+    position: fixed;
+    margin-left: 520px;
+    text-decoration: underline;
+}
+
 body {
     height: 100vh;
     background-color: black;
